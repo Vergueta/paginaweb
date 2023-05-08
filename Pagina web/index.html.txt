@@ -1,0 +1,98 @@
+<html>
+<head>
+
+<title> Steffano Aaron Ballesteros Roque </title>
+
+</head>
+<div align="center" >
+	<img src="imagenes/nagi.jpeg" align="center" width="50%px" height="20%px" />
+</div>
+<body background="imagenes/fondo.jpeg" width="100%px">
+
+	<hr>
+	<h1 style = "color:Red; text-align:center; font-size:50px;">
+	<img src="imagenes/ucsp.jpeg" alt="Smiley face" style="float:center-right;width:42px;height:42px;">
+	Alumno de la San Pablo 
+	<img src="imagenes/ucsp.jpeg" alt="Smiley face" style="float:center-left;width:42px;height:42px;">
+	</h1>
+	<hr color="green" size="10px" width="80%px"> 
+	<h1 style="text-align:center;"><b> Información </b><h1>
+	<hr color="purple" size="10px" width="15%px">
+		<div>
+		<img src="imagenes/yo.jpg" align="left" alt="Steffano" title="Steffano" width="300px" height="270px" />
+		<ul>
+			<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><li><b>Nombres: Steffano Aaron<b></li></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+			<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><li><b>Apellidos: Ballesteros Roque</b></li></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+			<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><li><b>Email: steffano.ballesteros@ucsp.edu.pe</b></li></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+			<blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><blockquote><li><b>Carrera Profesional: Ciencia de la Computación</b></li></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote>
+
+		</ul>
+		</div>
+	
+		<div style="align:center">
+			<hr>
+			<h3><b> ¿Quién soy?</b></h3>
+			<p text="font-family:verdana;"> Soy Steffano Aaron Ballesteros Roque, actualmente estudio en la Universidad privada Catolica San Pablo, estudiando la carrera profesional Ciencia de Computación (Computer Science) cursando el segundo semestre, mi educación media la llevé a cabo en el colegio nacional de Moquegua-Ilo Coronel Francisco Bolognesi Cervantes. Me gusta hacer deporte en mis ratos libres, soy bueno en el futbol y en el atletismo.</p>
+				<ul>
+				<li><a href="https://ucsp.edu.pe/">Universidad Catolica San Pablo</a> <br></li>
+				<li><a href="https://www.deperu.com/educacion/educacion-secundaria/colegio-coronel-francisco-bolognesi-cervantes-miramar-99202"> Coronel Francisco Bolognesi Cervantes </a></li>
+				</ul>
+			<P text="font-family:verdana;"> Los cursos que he cursado en el primer semestre son los siguienes: </p>
+				<ul>
+				<li> Comunicación </li>
+				<li> Programación de Video Juegos</li>
+				<li> Metodologia del Estudio</li>
+				<li> Matemática </li>
+				<li> Introducción a la vida universitaria</li>
+				<li> Estructuras Discretas</li>
+				</ul>
+			<P text="font-family:verdana;"> Los cursos que estoy cursando actualmente en el segundo semestre son los siguienes: </p>
+				<ul>
+				<li> Introducción de Ciencia de la Computación </li> 
+				<li> Matemática II</li>
+				<li> Estructuras Discretas</li>
+				<li> Introducción a la Filosofía </li>
+				<li> Apreciación Musical</li>
+				<li> Persona Matrimonio y Familia</li>
+				</ul>
+			<h2> Docente de Introducción de Ciencia de la Computación: </h2>
+				<ul>
+				<li> Dr Ernesto Cuadros Vargas</li>
+				<a href="https://socios.spc.org.pe/ecuadros/"> https://socios.spc.org.pe/ecuadros/ </a>
+				</ul>
+			<h2> Compañeros: </h2>
+				<ul>
+				<li> María Belén Calle Pinto</li>
+				<a href="https://es.wikipedia.org/wiki/Blue_Lock"> DJ TENEBROSO </a>
+				</ul>
+				<ul>
+				<li> Eduardo Cordova Choque</li>
+				<a href="https://es.wikipedia.org/wiki/Blue_Lock"> DJ TENEBROSO </a>
+				</ul>
+				<ul>
+				<li> Yury Llanos Luna</li>
+				<a href="https://yuryyohanllanos.web.app/"> https://yuryyohanllanos.web.app/ </a>
+				</ul>
+				<ul>
+				<li> Enzo Fuentes Apaza</li>
+				<a href="https://es.wikipedia.org/wiki/Blue_Lock"> DJ TENEBROSO </a>
+				</ul>
+				<ul>
+				<li> Brysett Valenzuela Lazarte</li>
+				<a href="https://es.wikipedia.org/wiki/Blue_Lock"> DJ TENEBROSO </a>
+				</ul>
+				<ul>
+				<li> Renzo Solis</li>
+				<a href="https://es.wikipedia.org/wiki/Blue_Lock"> DJ TENEBROSO </a>
+				</ul>
+				
+			
+		
+		</div >
+<div align="center">
+	<img src="imagenes/GIF.gif" align="center" width="50%px" height="55%px" />
+
+</div>
+
+</body>
+</html>
